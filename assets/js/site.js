@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-  var EMAIL = 'zevqostudios@gmail.com';
+  var EMAIL = 'enquiries@zevqostudios.com';
 
   // nav background once the page has scrolled
   var nav = document.getElementById('nav');
